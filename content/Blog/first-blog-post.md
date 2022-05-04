@@ -1,11 +1,11 @@
-Title: My blog post
+Title: This Blog Is Under Construction
 Date: 2010-12-03 10:20
 Modified: 2010-12-05 19:30
 Category: Blog
 Tags: pelican, first
 Slug: first-blog-post
 Authors: Ricardo
-Summary: Short version for index and feeds
+Summary: Is this blog still under construction? This is where a short summary would go
 
 # This is the content of my super blog post.
 

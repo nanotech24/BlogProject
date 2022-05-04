@@ -7,8 +7,6 @@ save_as: index.html
 status: hidden
 
 
-# This is the home page
-
 This is some test text
 <br>
 This is another test

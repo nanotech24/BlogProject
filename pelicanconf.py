@@ -1,5 +1,5 @@
 AUTHOR = 'Ricardo'
-SITENAME = 'North Atantech'
+SITENAME = 'North Atlantech'
 SITEURL = 'http://localhost:8000'
 
 PATH = 'content'

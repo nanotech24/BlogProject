@@ -1,7 +1,7 @@
-Title: Software Page
+Title: Software Collection
 Date: 2022-05-02
 Category: Software
-Slug: software-page
+Slug: software-collection
 Author: Richard Sharpe
 Summary: This is an archive of various software I have found over the years
 

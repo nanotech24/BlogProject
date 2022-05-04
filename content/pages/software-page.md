@@ -29,7 +29,7 @@ and other stuff
 
 ## Utilities:
 
-- [PureRef](https://www.google.ca) - Software for displaying reference images.
+- [PureRef](https://www.pureref.com) - Software for displaying reference images.
  It is simple to use and free!
 
 ---

@@ -1,0 +1,22 @@
+{
+    "pages": [
+        {
+            "title": "My blog post", 
+            "text":"This is the content of my super blog post. Utilities: - PureRef", 
+            "tags": "Blog", 
+            "loc": "http://localhost:8000/first-blog-post.html"
+        },
+        {
+            "title": "My guide post", 
+            "text":"This is the content of my super guide post.", 
+            "tags": "Guides", 
+            "loc": "http://localhost:8000/first-guide-post.html"
+        },
+        {
+            "title": "Software Page", 
+            "text":"This is the content of my software page This will be a list of stuff some things and other stuff Art: Inkscape - Vector graphics editor. Alternative to Adobe Illustrator Utilities: PureRef - Software for displaying reference images. It is simple to use and free!", 
+            "tags": "Software", 
+            "loc": "http://localhost:8000/pages/software-page.html"
+        }        
+    ]
+}

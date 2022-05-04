@@ -1,4 +1,4 @@
-Title: NorthAtlantech
+Title: Welcome To North Atlantech!
 Date: 2022-05-02
 Slug: home-page
 Category: Home

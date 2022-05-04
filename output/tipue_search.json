@@ -7,8 +7,8 @@
             "loc": "http://localhost:8000/first-blog-post.html"
         },
         {
-            "title": "My guide post", 
-            "text":"This is the content of my super guide post.", 
+            "title": "The Journey Of This Blog", 
+            "text":"This blog is going to be yet another example of my never ending desire to become worryingly obsessed with a new project for a few days/weeks/months. The end goal is to have this website finished and functional with a domain name and hosted on the web. I also need to make sure I have a SSL certificate so I can have https on the site. I have chosen linode as the provider for this project, because with them I can get a full blown linux cloud server to myself! Then I will have the extra little challenge of setting up a webserver. Not sure if I am going to go with apache or nginx.", 
             "tags": "Guides", 
             "loc": "http://localhost:8000/first-guide-post.html"
         },

@@ -2,7 +2,7 @@
     "pages": [
         {
             "title": "My blog post", 
-            "text":"This is the content of my super blog post. Utilities: - PureRef", 
+            "text":"This is the content of my super blog post. This website is currently under development. It is being created with a static website generator called Pelican. The purpose of creating this website was to learn how to create and host a website online. I am not a developer, so it is taking me some time to learn.", 
             "tags": "Blog", 
             "loc": "http://localhost:8000/first-blog-post.html"
         },
@@ -14,7 +14,7 @@
         },
         {
             "title": "Software Page", 
-            "text":"This is the content of my software page This will be a list of stuff some things and other stuff Art: Inkscape - Vector graphics editor. Alternative to Adobe Illustrator Utilities: PureRef - Software for displaying reference images. It is simple to use and free!", 
+            "text":"This is the content of my software page This will be a list of stuff some things and other stuff Graphics: Inkscape - Vector graphics editor. Alternative to Adobe Illustrator Music Reaper - Excellent Digital Audio Workstation (DAW). Available for a very low price, but can also be used free indefinitely. Utilities: PureRef - Software for displaying reference images. It is simple to use and free!", 
             "tags": "Software", 
             "loc": "http://localhost:8000/pages/software-page.html"
         }        

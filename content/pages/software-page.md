@@ -17,8 +17,13 @@ and other stuff
 
 ---
 
-## Art:
+## Graphics:
 - [Inkscape](https://inkscape.org) - Vector graphics editor. Alternative to Adobe Illustrator
+
+---
+
+## Music
+- [Reaper](https://www.reaper.fm) - Excellent Digital Audio Workstation (DAW). Available for a very low price, but can also be used free indefinitely.
 
 ---
 

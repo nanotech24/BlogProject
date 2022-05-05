@@ -14,7 +14,7 @@
         },
         {
             "title": "Software Collection", 
-            "text":"This is the content of my software page This will be a list of stuff some things and other stuff Graphics: Inkscape - Vector graphics editor. Alternative to Adobe Illustrator Music Reaper - Excellent Digital Audio Workstation (DAW). Available for a very low price, but can also be used free indefinitely. Utilities: PureRef - Software for displaying reference images. It is simple to use and free! 7-Zip - File archiver that supprts a wide variety of formats and has a high compression ratio", 
+            "text":"This is the content of my software page This will be a list of stuff some things and other stuff Graphics: Inkscape - Vector graphics editor. Alternative to Adobe Illustrator Music Reaper - Excellent Digital Audio Workstation (DAW). Available for a very low price, but can also be used free indefinitely. Utilities: 7-Zip - File archiver that supprts a wide variety of formats and has a high compression ratio PureRef - Software for displaying reference images. It is simple to use and free!", 
             "tags": "Software", 
             "loc": "http://localhost:8000/pages/software-collection.html"
         }        

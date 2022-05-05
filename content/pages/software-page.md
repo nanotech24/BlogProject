@@ -31,5 +31,7 @@ and other stuff
 
 - [PureRef](https://www.pureref.com) - Software for displaying reference images.
  It is simple to use and free!
+- [7-Zip](https://www.7-zip.org/) - File archiver that supprts a wide variety of formats and has a high compression ratio
+
 
 ---

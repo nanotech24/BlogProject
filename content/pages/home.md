@@ -7,8 +7,10 @@ save_as: index.html
 status: hidden
 
 
+![Blog image](/images/blogs.jpg)
+
 This is some test text
 <br>
-This is another test
+This is another test after a broken line
 
 another line to make a paragraph
